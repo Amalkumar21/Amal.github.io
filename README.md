@@ -1,2 +1,3 @@
-Hi mayself Amal kumar .
+Hi I am Amal!
 This is my first website.
+
